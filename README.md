@@ -1,2 +1,2 @@
-# Product-page
+# product-page
 sample ecommerce product page
